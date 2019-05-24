@@ -1,0 +1,10 @@
+{
+  "name": "ds",
+  "connector": "mysql",
+  "url": "mysql://root:pass@localhost/testdb",
+  "host": "",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": ""
+}
